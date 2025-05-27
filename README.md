@@ -1,6 +1,6 @@
 # Projet GCP (ETL Data Pipeline with Cloud Data Fusion)
 
-Dans ce projet, nous mettons en place un pipeline de données complet, de l'importation de fichiers dans Google Cloud Storage (GCS) à leur transformation via Cloud Data Fusion (Wrangler), jusqu'au chargement dans BigQuery. Enfin, nous connectons Looker Studio (anciennement Google Data Studio) à BigQuery pour créer des visualisations sur les données chargées.
+Dans ce projet, nous mettons en place un pipeline de données complet, de l'importation de fichiers dans Google Cloud Storage (GCS) à leur transformation via Cloud Data Fusion (Wrangler), jusqu'au chargement dans BigQuery. Enfin, nous connectons Looker Studio (anciennement Google Data Studio) à BigQuery pour créer des visualisations (simple exemple ici) sur les données chargées.
 
 <img width="600" alt="pipeline00" src="https://github.com/user-attachments/assets/e19aab41-fe5a-4f28-abdd-f262d1960e47" />
 
