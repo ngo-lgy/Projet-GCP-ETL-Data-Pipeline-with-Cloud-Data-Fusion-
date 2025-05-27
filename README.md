@@ -98,6 +98,6 @@ Enfin, je connecte **BigQuery à Looker Studio** (anciennement Google Data Studi
 
 <img width="959" alt="looker_studio11" src="https://github.com/user-attachments/assets/e7512fc9-72aa-4d75-aa6d-9ef324460917" />
 
-Exemple de visualisation générée à partir du champ full_name :
+Exemple de visualisation générée :
 
 <img width="440" alt="looker_studio12" src="https://github.com/user-attachments/assets/ebfe480c-ef2a-4f84-88f1-f0034f2f19d4" />
