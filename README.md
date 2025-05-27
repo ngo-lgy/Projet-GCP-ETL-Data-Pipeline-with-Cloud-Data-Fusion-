@@ -45,7 +45,7 @@ Dans Wrangler, je retrouve mon bucket et le fichier importé.
 
 Dans cet espace visuel, j’effectue les étapes de **préparation des données** :
 
-* 🔤 **Création d'une colonne Full\_name** : en concaténant les colonnes `first_name` et `last_name`
+* 🔤 **Création d'une colonne Full\_name** : en concaténant les colonnes first_name et`last_name
 * 🔒 **Masquage des données sensibles** : par exemple, en **masquant les salaires** avec une transformation de type “mask”
 * 🔐 **Encodage des mots de passe** : par **hachage MD5** pour les sécuriser
 
@@ -96,8 +96,8 @@ Une fois le pipeline exécuté avec succès (*Status: Succeeded*), je peux reven
 
 Enfin, je connecte **BigQuery à Looker Studio** (anciennement Google Data Studio) pour créer des tableaux de bord à partir des données transformées.
 
-`--------looker_studio11--------`
+<img width="959" alt="looker_studio11" src="https://github.com/user-attachments/assets/e7512fc9-72aa-4d75-aa6d-9ef324460917" />
 
-Exemple de visualisation générée à partir du champ `full_name` :
+Exemple de visualisation générée à partir du champ full_name :
 
-`--------looker_studio12--------`
+<img width="455" alt="looker_studio12" src="https://github.com/user-attachments/assets/e80e7969-7722-4c42-b0c0-0ec1eb4e6a82" />
