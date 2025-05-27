@@ -21,7 +21,7 @@ Une fois le bucket créé, j’y importe mon fichier CSV nommé **employee\_data
 
 <img width="958" alt="bucket2" src="https://github.com/user-attachments/assets/19efdf51-03ac-4c55-93c3-39a227bffb76" />
 
----
+
 
 ### Lancement de l’environnement Wrangler
 
@@ -39,7 +39,7 @@ Dans Wrangler, je retrouve mon bucket et le fichier importé.
   
 <img width="959" alt="wrangler5" src="https://github.com/user-attachments/assets/960983bb-b617-413c-9bcf-5ee523daad58" />
 
----
+
 
 ### 🛠️ Préparation et transformation des données (Wrangler)
 
@@ -54,7 +54,7 @@ Aperçu des transformations appliquées dans Wrangler :
 
 <img width="718" alt="wrangler6" src="https://github.com/user-attachments/assets/a1b0c25f-1c92-4080-838b-b9d9e496f097" />
 
----
+
 
 ### ⚙️ Création et déploiement du pipeline ETL
 
@@ -75,7 +75,7 @@ Une fois déployé, je suis redirigé vers l’écran d’exécution où je peux
 
 <img width="956" alt="pipeline9" src="https://github.com/user-attachments/assets/cf10d873-7bbf-4a6d-bf71-b9d8f5901d56" />
 
----
+
 
 ### ⚠️ Avant d'exécuter le pipeline, penser à :
 
@@ -90,7 +90,7 @@ Une fois le pipeline exécuté avec succès (*Status: Succeeded*), je peux reven
 
 <img width="957" alt="bigquery_table10" src="https://github.com/user-attachments/assets/df088f62-fcaa-4422-ae28-e207453a9cc7" />
 
----
+
 
 ### 📊 Visualisation des données avec Looker Studio
 
