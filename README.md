@@ -101,3 +101,6 @@ Enfin, je connecte **BigQuery à Looker Studio** (anciennement Google Data Studi
 Exemple de visualisation générée :
 
 <img width="440" alt="looker_studio12" src="https://github.com/user-attachments/assets/ebfe480c-ef2a-4f84-88f1-f0034f2f19d4" />
+
+<img width="956" alt="looker_studio13" src="https://github.com/user-attachments/assets/6b238874-e978-44bb-a653-dea1c6df9d97" />
+
