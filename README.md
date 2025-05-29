@@ -5,7 +5,7 @@ Dans ce projet, nous mettons en place un pipeline de données complet, de l'impo
 <img width="600" alt="pipeline00" src="https://github.com/user-attachments/assets/e19aab41-fe5a-4f28-abdd-f262d1960e47" />
 
 
-Nous commençons par accéder à la console Google Cloud Platform (GCP). Pour ce projet, j'utilise l'essai gratuit, comme cela a été le cas pour le projet **MSBI SSIS (ETL)** que je vous invite à consulter dans la section *Projets* de mon profil.
+Nous commençons par accéder à la console Google Cloud Platform (GCP). Pour ce projet, j'utilise l'essai gratuit, comme cela a été le cas pour le projet **MSBI SSIS (ETL)** que je vous invite à consulter dans la section *Projets* de mon profil LinkedIn.
 
 ### Création de l’instance Cloud Data Fusion
 
