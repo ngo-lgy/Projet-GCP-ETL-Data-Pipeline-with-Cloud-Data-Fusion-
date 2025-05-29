@@ -86,7 +86,7 @@ Une fois déployé, je suis redirigé vers l’écran d’exécution où je peux
   * Rôle **Storage Admin (ou Storage Object Admin)**
 * **Passer les buckets en mode “autorisations uniformes”** dans GCS
 
-Une fois le pipeline exécuté avec succès (*Status: Succeeded*), je peux revenir dans BigQuery, actualiser la page et vérifier que mon dataset et ma table ont bien été créés.
+Une fois le pipeline exécuté avec succès (*Status: Succeeded*), je peux revenir dans BigQuery, actualiser la page et vérifier que ma table a bien été créée dans le dataset de destination dans BigQuery. 
 
 <img width="957" alt="bigquery_table10" src="https://github.com/user-attachments/assets/df088f62-fcaa-4422-ae28-e207453a9cc7" />
 
